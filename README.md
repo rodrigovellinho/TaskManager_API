@@ -11,7 +11,7 @@ A aplicação é um API para gestão de tarefas.
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
-git clone https://github.com/rodrigovellinho/Finance_API.git
+git clone https://github.com/rodrigovellinho/TaskManager_API.git
 # ou use a opção de download.
 
 # Instale as dependências
